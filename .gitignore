@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+work_dirs/
+*.pth
+data/
+build/
+mmdet.egg-info/
+*.pyd
