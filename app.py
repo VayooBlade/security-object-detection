@@ -14,7 +14,7 @@ model = init_detector(CONFIG_FILE, CHECKPOINT_FILE, device=DEVICE)
 model.CLASSES = ('Gun', 'Knife')
 print("Model loaded successfully!")
 
-def draw_boxes(img, result, score_thr=0.4):
+def draw_boxes(img, result, score_thr=0.45):
     """
     Draw boxes directly on RGB image for Gradio.
     """
