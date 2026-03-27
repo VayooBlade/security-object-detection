@@ -12,7 +12,7 @@
 ## 🎥 Project Demonstration
 *(Click the image below to watch our 2-Minute Demo Video on YouTube)*
 
-[![Project Demo Video](https://drive.google.com/file/d/14gV4YRkszi9vaT26Icj4Tkhp_q4IJR3R/view?usp=drive_link)  
+[![Project Demo Video](https://via.placeholder.com/800x400.png?text=Watch+Demo)](https://drive.google.com/file/d/14gV4YRkszi9vaT26Icj4Tkhp_q4IJR3R/view?usp=sharing)
 
 
 ---
