@@ -1,4 +1,4 @@
-# 🛡️ AI-Powered Security Threat Detection in X-Ray Scans
+# 🛡️ AI-Powered Security Threat Detection in X-Ray Scans(TEAM BIT BANDITS)
 
 ![Status](https://img.shields.io/badge/Status-Prototype_Complete-success?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python&logoColor=white)
