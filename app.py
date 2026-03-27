@@ -1,6 +1,7 @@
 import gradio as gr
 import cv2
 import numpy as np
+# Core inference pipeline for object detection
 from mmdet.apis import init_detector, inference_detector
 
 # --- CONFIGURATION ---
